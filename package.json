@@ -1,0 +1,15 @@
+{
+  "name": "telegramtableside",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
